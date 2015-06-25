@@ -1,0 +1,6 @@
+[gerrit]
+host=gerrit.wikimedia.org
+port=29418
+project=research/RecommendationMailer.git
+defaultbranch=master
+defaultrebase=0
