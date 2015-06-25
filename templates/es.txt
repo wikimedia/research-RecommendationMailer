@@ -1,0 +1,22 @@
+Hola {{user}},
+
+El Equipo de Investigación de la Fundación Wikimedia está trabajando para identificar artículos populares y relevantes[1] de Wikipedias en otros idiomas que no existen en español todavía. Los siguientes tres artículos existen en la Wikipedia en inglés y se consideran relevantes para otros idiomas. Basándonos en tu historial de contribuciones en Wikipedia, te consideramos un muy buen candidato para contribuir en alguno de estos artículos. Comenzar cualquiera de estos artículos será un gran paso para aumentar el contenido disponible en español.[2]
+
+{{recs}}
+
+Muchas gracias por tu tiempo.[3, 4]
+
+Equipo de Investigación
+Fundación Wikimedia
+149 New Montgomery Street, 6th Floor
+San Francisco, CA, 94105
+415.839.6885 (Office)
+
+----
+
+[1] Los artículos populares y relevantes se identifican mediante un algoritmo. Puedes leer más sobre la metodología empleada para desarrollar el algoritmo en <https://meta.wikimedia.org/wiki/Research:Increasing_article_coverage#Methodology>.
+[2] Los enlaces te llevarán a la herramienta de Traducción de Contenidos (disponible en versión beta para algunos idiomas), una herramienta en continuo desarrollo por parte del equipo de Ingeniería del Lenguaje. Puedes leer más sobre la herramienta en <https://www.mediawiki.org/wiki/Content_translation>. 
+[3] Si te interesa aprender más sobre este proyecto de investigación, puedes leer más en <https://meta.wikimedia.org/wiki/Research:Increasing_article_coverage> y discutirlo con nosotros en <https://meta.wikimedia.org/wiki/Research_talk:Increasing_article_coverage>.
+[4] Nos gustaría oír tus comentarios. Contactanos por correo electrónico en recommender-feedback@wikimedia.org o participando en la discusión en <https://meta.wikimedia.org/wiki/Research_talk:Increasing_article_coverage>.
+
+Si no deseas recibir correos del Equipo de Investigación de Wikimedia, envíanos un correo electrónico con el título "unsubscribe" a <recommender-feedback@wikimedia.org>.

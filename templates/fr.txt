@@ -1,0 +1,22 @@
+Bonjour {{user}},
+
+L’équipe Recherche de la Fondation Wikimédia (Wikimedia Research) travaille actuellement sur l’identification d’articles populaires et importants[1] dans certaines langues du projet Wikipédia qui n’existent pas encore sur le Wikipédia francophone. Les trois articles suivants existent dans la version anglophone de Wikipédia et sont considérés comme étant importants pour les autres langues du projet. Au vu de votre historique de contribution à Wikipédia, nous pensons que vous êtes un(e) excellent candidat(e) pour contribuer à ces articles. Démarrer la création de l'un de ces articles serait un premier pas considérable en vue d'élargir les connaissances disponibles en français.[2]
+
+{{recs}}
+
+Nous vous remercions d'avance pour votre aide.[3, 4]
+
+Equipe de Recherche
+Fondation Wikimédia
+149 New Montgomery Street, 6th Floor
+San Francisco, CA, 94105
+(+1) 415.839.6885 (Bureau)
+
+----
+
+[1] Les articles importants et populaires sont identifiés à l’aide d’un algorithme. La méthodologie que nous avons utilisée pour développer cet algorithme est disponible (en anglais) à cette adresse (<https://meta.wikimedia.org/wiki/Research:Increasing_article_coverage#Methodology>).
+[2] Les liens pointent vers l’outil de traduction de Wikipédia (ContentTranslation Tool). Cet outil est en cours de développement par l’équipe Language Engineering de la fondation (pour l’instant en version beta dans certaines langues). En savoir plus: <https://www.mediawiki.org/wiki/Content_translation>.
+[3] Si vous désirez plus d’informations sur ce projet de recherche, vous pouvez lire cette page: <https://meta.wikimedia.org/wiki/Research:Increasing_article_coverage> (en anglais), et nous en parler sur sa page de discussion: <https://meta.wikimedia.org/wiki/Research_talk:Increasing_article_coverage> (en anglais de préférence, même si nous trouverons certainement un traducteur si vous nous écrivez en français :).
+[4] Votre avis est important pour nous. Faites nous part de vos impressions par courriel à l’adresse <recommender-feedback@wikimedia.org>, ou rejoignez la discussion à <https://meta.wikimedia.org/wiki/Research_talk:Increasing_article_coverage>.
+
+Si vous ne souhaitez plus recevoir de courriel de Wikimedia Research, merci d’envoyer un courriel ayant pour sujet "unsubscribe" à l’adresse <recommender-feedback@wikimedia.org>.

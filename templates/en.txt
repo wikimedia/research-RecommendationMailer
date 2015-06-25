@@ -1,0 +1,23 @@
+Hi {{user}},
+
+The Research Team at the Wikimedia Foundation is working on finding popular and important articles in other-language Wikipedias that do not exist in {{lang}} Wikipedia yet. The following three articles exist in English Wikipedia and are considered important for other Wikipedias. Based on your history of contribution to Wikipedia, we think you are a great candidate for contributing to one of these articles. Starting any of these articles would be a great first step in making more knowledge available in {{lang}}.
+
+{{recs}}
+
+Thank you for your time. 
+
+Research Team
+Wikimedia Foundation
+149 New Montgomery Street, 6th Floor
+San Francisco, CA, 94105
+415.839.6885 (Office)
+
+If you do not wish to receive future emails from Wikimedia Research, please
+send an email with subject "unsubscribe" to <recommender-feedback@wikimedia.org>.
+
+----
+
+  [1]: Popular and important articles are identified using an algorithm. You can read more about the methodology used to develop the algorithm at <https://meta.wikimedia.org/wiki/Research:Increasing_article_coverage#Methodology>.
+  [2]: The links will take you to the ContentTranslation tool (currently a beta feature in some languages) under development by the Language Engineering team. You can read more about the tool here: <https://www.mediawiki.org/wiki/Content_translation>.
+  [3]: If you are interested to learn more about this research, you can read more about it on MetaWiki: <https://meta.wikimedia.org/wiki/Research:Increasing_article_coverage>.
+  [4]: We would love to hear your feedback. Let us know by emailing us at <recommender-feedback@wikimedia.org> or by participating in the discussion on the talk page: <https://meta.wikimedia.org/wiki/Research_talk:Increasing_article_coverage>.
