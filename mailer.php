@@ -1,6 +1,6 @@
 <?php
-require_once '/srv/mediawiki/multiversion/MWVersion.php';
-require_once getMediaWiki( 'maintenance/commandLine.inc', 'enwiki' );
+require_once '/srv/mediawiki/multiversion/MWMultiVersion.php';
+require_once MWMultiVersion::getMediaWiki( 'maintenance/commandLine.inc', 'enwiki' );
 
 $sender = new MailAddress( 'recommender-feedback@wikimedia.org', 'Wikimedia Research' );
 
